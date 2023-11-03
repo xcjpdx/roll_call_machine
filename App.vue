@@ -18,8 +18,6 @@
 		background: #f6f6f6;
 		color: #333;
 		font-family: Source Han Sans SC;
-		// 兼容 iOS 设备的安全区域
-		padding-bottom: env(safe-area-inset-bottom);
 	}
 	uni-modal {
 		z-index: 999999 !important;

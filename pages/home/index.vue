@@ -187,6 +187,7 @@
 			return;
 		}
 		setAddName.value = '';
+		safeValue.value = '';
 		setShow.value = true;
 		safeShow.value = false;
 	}
